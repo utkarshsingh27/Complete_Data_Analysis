@@ -36,16 +36,3 @@ This project investigates long-term climatic trends and their impact on groundwa
 
 ---
 
-## 📁 Repository Structure
-
-```bash
-climatic-groundwater-analysis/
-│
-├── data/                      # Raw and processed climate & groundwater data
-├── notebooks/
-│   ├── rainfall_trend.ipynb   # Trend analysis code for rainfall
-│   ├── temperature_trend.ipynb
-│   └── groundwater_analysis.ipynb
-├── plots/                     # Output graphs and seasonal trend visuals
-├── README.md
-└── requirements.txt
