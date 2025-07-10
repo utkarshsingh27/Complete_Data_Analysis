@@ -1,6 +1,6 @@
 # 🌦️ Climatic Analysis & Impact on Groundwater Levels
 
-**Duration:** May 2025 – June 2025  
+
 **Locations Covered:** Guwahati, Patna, Bhubaneswar
 
 ---
