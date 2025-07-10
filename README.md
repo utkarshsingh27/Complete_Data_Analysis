@@ -11,7 +11,7 @@ This project investigates long-term climatic trends and their impact on groundwa
 
 ---
 
-## Key Objectives
+## Key Objective
 
 - **Trend Detection (1970–2020):**  
   - Analyzed monthly temperature and rainfall data to detect long-term trends using statistical tests.  
