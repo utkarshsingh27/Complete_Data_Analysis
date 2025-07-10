@@ -5,13 +5,13 @@
 
 ---
 
-## 🔍 Project Overview
+## Project Overview
 
 This project investigates long-term climatic trends and their impact on groundwater levels in three Indian cities using historical temperature, rainfall, and groundwater datasets. The analysis integrates time series decomposition, trend detection, anomaly identification, and seasonal pattern analysis to uncover relationships between climate variability and water resource dynamics.
 
 ---
 
-## 📊 Key Objectives
+## Key Objectives
 
 - **Trend Detection (1970–2020):**  
   - Analyzed monthly temperature and rainfall data to detect long-term trends using statistical tests.  
@@ -27,7 +27,7 @@ This project investigates long-term climatic trends and their impact on groundwa
 
 ---
 
-## 🧰 Tools & Libraries Used
+## Tools & Libraries Used
 
 - **Languages:** Python, R  
 - **Python Libraries:** `pandas`, `matplotlib`, `seaborn`, `statsmodels`  
